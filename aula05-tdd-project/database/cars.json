@@ -1,0 +1,23 @@
+[
+  {
+    "id": "04cc4a77-968a-4368-99a6-df2c35099905",
+    "name": "Volt",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d488efcf-a0da-4428-aadd-e8a82a3e2942",
+    "name": "XTS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c5e1af9b-49c5-4b84-86a8-93f9db35f4fd",
+    "name": "Durango",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]

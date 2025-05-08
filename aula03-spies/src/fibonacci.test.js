@@ -23,6 +23,4 @@ const assert = require("assert");
     const expectedResult = [0, 1, 1, 2, 3];
     assert.deepStrictEqual(results, expectedResult);
   }
-  {
-  }
 })();
